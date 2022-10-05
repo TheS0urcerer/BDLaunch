@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BDLaunch": {
+      "commandName": "Project",
+      "commandLineArgs": "-admin"
+    }
+  }
+}
